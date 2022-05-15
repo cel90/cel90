@@ -1,6 +1,6 @@
 
 
-Hi there 🙋‍♂️
+ <div id="header" align="center"> Hi there 🙋‍♂️ </div>
 
 - :telescope: I will be graduating from Promineo Tech Bootcamp in Back End Development and I'm looking forward to entering into a career in the tech industry.
 
