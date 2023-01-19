@@ -2,7 +2,7 @@
 
  <div id="header" align="center"> Hi there 🙋‍♂️ </div>
 
-- :telescope: I will be graduating from Promineo Tech Bootcamp in Back End Development and I'm looking forward to entering into a career in the tech industry.
+- :telescope: I'm looking forward to entering into a career in the tech industry.
 
 - :zap: In my free time, I work on my due assignments. I also learn everything adequately and develop my skills day after day.
 
